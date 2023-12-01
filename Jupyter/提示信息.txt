@@ -1,0 +1,4 @@
+jupyter notebook
+
+中文字体乱码报错问题解决：
+plt.rcParams['font.sans-serif'] = ['Arial Unicode MS']

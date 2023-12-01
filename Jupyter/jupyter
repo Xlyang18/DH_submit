@@ -1,0 +1,4 @@
+# 将操作目录转移到jupyter的目标目录
+cd /Users/xiongluyang/Documents/delAnyTime/Jupyter
+# 启动jupyter 服务
+jupyter notebook
